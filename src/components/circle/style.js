@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-export const Circle = styled.div`
+export const StyledCircle = styled.div`
   width: 24rem;
   height: 24rem;
   position: relative;
